@@ -73,7 +73,7 @@ export default function About() {
                     accent="124, 58, 237"
                     delay={0}
                 >
-                    I am Mogalapu Karthikeya Rama Ragavendra, a dedicated Computer Science and Engineering student at Lovely Professional University. I have a strong passion for technology, software development, and building innovative digital products. My academic journey has allowed me to explore various areas of computer science including web development, database management, and backend systems.
+                    I am Shubham Kumar, a dedicated Computer Science and Engineering student at Lovely Professional University. I have a strong passion for technology, software development, and building innovative digital products. My academic journey has allowed me to explore various areas of computer science including web development, database management, and backend systems.
                     {' '}I enjoy designing and developing web applications that combine strong functionality with modern user interface design. My interest in full stack development enables me to work across both frontend and backend technologies to build complete end-to-end software solutions. I am continuously learning new tools and frameworks to improve my development skills and stay updated with industry trends.
                     {' '}I believe that technology has the power to transform industries and improve people's lives. My goal is to contribute to impactful software projects and grow into a highly skilled software engineer capable of building scalable platforms used by thousands or even millions of users.
                 </SectionBlock>

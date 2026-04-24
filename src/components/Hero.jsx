@@ -144,7 +144,7 @@ export default function Hero() {
                                 maxWidth: '520px',
                             }}
                         >
-                            Mogalapu Karthikeya Rama Ragavendra is an aspiring Full Stack Developer and Computer Science student at Lovely Professional University who is passionate about building modern web applications and scalable digital platforms. With a strong interest in software development, he focuses on creating efficient backend systems, intuitive user interfaces, and reliable data-driven applications. His goal is to combine creativity with technology to design solutions that solve real-world problems. Through continuous learning and hands-on projects, he is developing expertise in full stack development, modern web technologies, and application architecture.
+                            Shubham Kumar is an aspiring Full Stack Developer and Computer Science student at Lovely Professional University who is passionate about building modern web applications and scalable digital platforms. With a strong interest in software development, he focuses on creating efficient backend systems, intuitive user interfaces, and reliable data-driven applications. His goal is to combine creativity with technology to design solutions that solve real-world problems. Through continuous learning and hands-on projects, he is developing expertise in full stack development, modern web technologies, and application architecture.
                         </motion.p>
 
                         {/* CTA Buttons */}
@@ -163,7 +163,7 @@ export default function Hero() {
                                 View Projects <ChevronRight size={18} />
                             </motion.a>
                             <motion.a
-                                href="/Ragavendra_Resume.pdf"
+                                href="/shubham_kumar_resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 whileHover={{ scale: 1.05, boxShadow: '0 0 18px rgba(6,182,212,0.3)' }}
@@ -205,7 +205,7 @@ export default function Hero() {
                                 { icon: Github, href: 'https://github.com/nan11082004', label: 'GitHub', hoverColor: '#e2e8f0', glowColor: 'rgba(226,232,240,0.2)' },
                                 { icon: Linkedin, href: 'https://www.linkedin.com/in/mogalapu-', label: 'LinkedIn', hoverColor: '#0ea5e9', glowColor: 'rgba(14,165,233,0.25)' },
                                 { icon: Instagram, href: 'https://instagram.com/ragavendra_mogalapu', label: 'Instagram', hoverColor: '#f472b6', glowColor: 'rgba(244,114,182,0.25)' },
-                                { icon: Mail, href: 'mailto:ragavendramogalapu@gmail.com', label: 'Email', hoverColor: '#a78bfa', glowColor: 'rgba(167,139,250,0.25)' },
+                                { icon: Mail, href: 'mailto:workforshubh47@gmail.com', label: 'Email', hoverColor: '#a78bfa', glowColor: 'rgba(167,139,250,0.25)' },
                             ].map(({ icon: Icon, href, label, hoverColor, glowColor }) => (
                                 <motion.a
                                     key={label}

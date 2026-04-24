@@ -57,7 +57,7 @@ export default function Navbar() {
                         <Code2 size={20} color="white" />
                     </div>
                     <span style={{ fontFamily: 'Syne, sans-serif', fontWeight: 700, fontSize: '18px', color: '#f8fafc', letterSpacing: '-0.02em' }}>
-                        Ragavendra
+                        Shubham Kumar
                     </span>
                 </motion.a>
 
@@ -72,7 +72,7 @@ export default function Navbar() {
                     {/* CV buttons */}
                     <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
                         <motion.a
-                            href="/Ragavendra_Resume.pdf"
+                            href="/shubham_kumar_resume.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             title="View CV"
@@ -94,8 +94,8 @@ export default function Navbar() {
                             <Eye size={14} /> View CV
                         </motion.a>
                         <motion.a
-                            href="/Ragavendra_Resume.pdf"
-                            download="Ragavendra_Resume.pdf"
+                            href="/shubham_kumar_resume.pdf"
+                            download="Shubham_Kumar_Resume.pdf"
                             title="Download CV"
                             whileHover={{ scale: 1.06, boxShadow: '0 0 16px rgba(124,58,237,0.4)' }}
                             whileTap={{ scale: 0.94 }}

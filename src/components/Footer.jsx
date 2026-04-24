@@ -39,7 +39,7 @@ export default function Footer() {
                             }}>
                                 <Code2 size={18} color="white" />
                             </div>
-                            <span style={{ fontFamily: 'Syne, sans-serif', fontWeight: 700, fontSize: '18px' }}>Ragavendra</span>
+                            <span style={{ fontFamily: 'Syne, sans-serif', fontWeight: 700, fontSize: '18px' }}>Shubham Kumar</span>
                         </div>
                         <p style={{ color: '#475569', fontSize: '14px', lineHeight: 1.7 }}>
                             Aspiring Full Stack Developer building modern web applications and scalable digital platforms. Based in Lovely Professional University, Punjab.
@@ -70,10 +70,10 @@ export default function Footer() {
                         </div>
                         <div style={{ display: 'flex', gap: '10px', marginBottom: '16px' }}>
                             {[
-                                { icon: Github, href: 'https://github.com/nan11082004', label: 'GitHub', hoverColor: '#e2e8f0', glowColor: 'rgba(226,232,240,0.2)' },
-                                { icon: Linkedin, href: 'https://www.linkedin.com/in/mogalapu-', label: 'LinkedIn', hoverColor: '#0ea5e9', glowColor: 'rgba(14,165,233,0.25)' },
-                                { icon: Instagram, href: 'https://instagram.com/ragavendra_mogalapu', label: 'Instagram', hoverColor: '#f472b6', glowColor: 'rgba(244,114,182,0.25)' },
-                                { icon: Mail, href: 'mailto:ragavendramogalapu@gmail.com', label: 'Email', hoverColor: '#a78bfa', glowColor: 'rgba(167,139,250,0.25)' },
+                                { icon: Github, href: 'https://github.com/shubhamkumar-47', label: 'GitHub', hoverColor: '#e2e8f0', glowColor: 'rgba(226,232,240,0.2)' },
+                                { icon: Linkedin, href: 'https://www.linkedin.com/in/shubhamkumar47/', label: 'LinkedIn', hoverColor: '#0ea5e9', glowColor: 'rgba(14,165,233,0.25)' },
+                                { icon: Instagram, href: 'https://instagram.com/_shubham_47__', label: 'Instagram', hoverColor: '#f472b6', glowColor: 'rgba(244,114,182,0.25)' },
+                                { icon: Mail, href: 'mailto:workforshubh47@gmail.com', label: 'Email', hoverColor: '#a78bfa', glowColor: 'rgba(167,139,250,0.25)' },
                             ].map(({ icon: Icon, href, label, hoverColor, glowColor }) => (
                                 <motion.a
                                     key={label}
@@ -110,8 +110,8 @@ export default function Footer() {
                                 </motion.a>
                             ))}
                         </div>
-                        <a href="mailto:ragavendramogalapu@gmail.com" style={{ color: '#475569', fontSize: '13px', textDecoration: 'none' }}>
-                            ragavendramogalapu@gmail.com
+                        <a href="mailto:workforshubh47@gmail.com" style={{ color: '#475569', fontSize: '13px', textDecoration: 'none' }}>
+                            workforshubh47@gmail.com
                         </a>
                     </div>
                 </div>
